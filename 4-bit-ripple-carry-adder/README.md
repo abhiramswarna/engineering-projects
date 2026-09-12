@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a 4-bit ripple-carry adder** in SystemVerilog using a reusable 1-bit full-adder module**.
+This project implements a 4-bit ripple-carry adder in SystemVerilog using a reusable 1-bit full-adder module.
 
 The design was built hierarchically by connecting four full adders in series, where each stage passes its carry-out to the carry-in of the next stage.
 
